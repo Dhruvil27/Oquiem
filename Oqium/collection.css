@@ -1,0 +1,262 @@
+.container12 {
+
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 100%;
+}
+
+.container13 {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 100%;
+    text-align: center;
+}
+
+.container-13 {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 100%;
+}
+
+.Frame525 {
+    margin-top: 30px;
+    width: 639px;
+    height: 160px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+    display: inline-flex;
+}
+
+.home-footwear {
+
+    color: #A3A3A3;
+    font-size: 12px;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 16.80px;
+    word-wrap: break-word;
+}
+
+
+.Frame524 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 14px;
+    display: flex;
+
+}
+
+.Frame149 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 15px;
+    display: flex;
+}
+
+.text-footwear {
+    color: black;
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 33.60px;
+    word-wrap: break-word;
+}
+
+
+.sine-2008 {
+    width: 639px;
+    color: black;
+    font-size: 12px;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 16.80px;
+    word-wrap: break-word;
+}
+
+.Sort {
+
+    border: none;
+    background-color: white;
+}
+
+
+.Rectangle512 {
+    width: 1080px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 40px;
+    display: inline-flex;
+}
+
+
+
+.Frame515 {
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+    display: inline-flex;
+}
+
+
+
+.PRODUCT-TILE-Collection {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 7px;
+    display: inline-flex;
+
+}
+
+.Group4 {
+    width: 255px;
+    height: 337px;
+    position: relative;
+}
+
+.Rectangle512 img {
+    width: 223px;
+    height: 208px;
+    left: 10px;
+    top: 78px;
+    position: absolute;
+}
+
+.title1 {
+
+    width: 243px;
+    color: black;
+    font-size: 14px;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 19.60px;
+    word-wrap: break-word;
+    text-align: initial;
+}
+
+.title1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.prize {
+    color: black;
+    font-size: 14px;
+    font-family: Montserrat;
+    font-weight: 400;
+    text-decoration: line-through;
+    line-height: 19.60px;
+    word-wrap: break-word;
+}
+
+.Frame516 {
+    margin-top: 50px;
+    width: 224px;
+    height: 66px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 11px;
+    display: inline-flex;
+
+}
+
+
+.ProductsSeen {
+
+    color: black;
+    font-size: 12px;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 16.80px;
+    word-wrap: break-word;
+
+}
+
+.Rectangle67 {
+    width: 224px;
+    height: 38px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: black;
+    border-radius: 50px;
+}
+
+
+
+.Checkout {
+    width: 199px;
+    left: 12px;
+    top: 9px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 19.60px;
+    word-wrap: break-word;
+}
+
+
+
+
+.popular-cat {
+
+    margin-left: 10px;
+    margin-bottom: 30px;
+    color: black;
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 33.60px;
+    word-wrap: break-word;
+}
+
+
+.column1 {
+
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 7px;
+    display: inline-flex;
+}
+
+
+.text {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+
+.Previouslyseen {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+
+
+.Rectangle18{
+    margin-top: 20px;
+    width: 1300px;
+    height: 177px;
+    flex-shrink: 0;
+}

@@ -1,0 +1,40 @@
+.h-c-f-n {
+    margin-left: 10%;
+    color: #8C8C8C;
+
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+
+.container19 {
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 100%;
+}
+
+
+.Frame660 {
+
+    width: 858px;
+    height: 858px;
+    flex-shrink: 0;
+}
+
+
+
+.product-item {
+    width: 200px;
+    height: 200px;
+    flex-shrink: 0;
+}
+
+
+.img-1{
+    width:42;
+    height:42;
+
+}
